@@ -1,0 +1,16 @@
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/server/Packet.java
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/server/Player.java
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/server/PlayState.java
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/server/ServerAdapterInitializer.java
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/server/Core.java
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/client/Client.java
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/server/State.java
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/server/StartState.java
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/server/CallState.java
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/client/ClientAdapterHandler.java
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/server/Server.java
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/server/ServerAdapterHandler.java
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/client/ClientAdapterInitializer.java
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/server/EndState.java
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/server/Card.java
+/home/youssef/Documents/Java_jcoinche_2017/src/main/java/server/CardsColors.java
